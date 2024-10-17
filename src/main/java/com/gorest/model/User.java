@@ -1,9 +1,7 @@
 package com.gorest.model;
 
-
 import lombok.*;
 
-//
 @Builder
 @Data
 @AllArgsConstructor
